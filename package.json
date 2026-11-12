@@ -1,0 +1,27 @@
+{
+  "name": "cursor-skin",
+  "version": "1.0.0",
+  "description": "npx-скин для агента Cursor: ставит проектное правило в .cursor/rules",
+  "type": "module",
+  "bin": {
+    "cursor-skin": "./bin/cursor-skin.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18.18"
+  },
+  "scripts": {
+    "start": "node ./bin/cursor-skin.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frskapranov-stack/retertertert.git"
+  },
+  "license": "MIT"
+}
