@@ -1,0 +1,11 @@
+cursor.com
+cursor.sh
+cursor-cdn.com
+cursorapi.com
+cursorvm.com
+accounts.spacex.ai
+accounts.x.ai
+anysphere-binaries.s3.us-east-1.amazonaws.com
+agent-stores.s3.us-east-1.amazonaws.com
+agent-stores.s3.amazonaws.com
+cursor.blob.core.windows.net
