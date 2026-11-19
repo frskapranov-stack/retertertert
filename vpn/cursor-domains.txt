@@ -1,0 +1,19 @@
+# Cursor desktop, agents, updates. Subdomains of these zones are matched
+# by Keenetic automatically. Do not list x.ai — it would capture other *.x.ai
+# and, as a substring, unrelated names.
+cursor.com
+cursor.sh
+cursor-cdn.com
+cursorapi.com
+cursorvm.com
+accounts.spacex.ai
+accounts.x.ai
+anysphere-binaries.s3.us-east-1.amazonaws.com
+agent-stores.s3.us-east-1.amazonaws.com
+agent-stores.s3.amazonaws.com
+cursor.blob.core.windows.net
+authenticator.cursor.sh
+marketplace.cursorapi.com
+downloads.cursor.com
+us1.cursor-cdn.com
+eu1.cursor-cdn.com

@@ -1,0 +1,16 @@
+# Instagram app needs Meta/Facebook CDNs as well.
+# Skip short names (fb.com, ig.me): Keenetic matches them as a substring
+# and a rule like x.com silently captures yandex.com.
+instagram.com
+cdninstagram.com
+instagram.net
+igsonar.com
+igcdn.com
+instagr.am
+facebook.com
+facebook.net
+fbcdn.net
+fbsbx.com
+cdnfacebook.com
+messenger.com
+tfbnw.net
